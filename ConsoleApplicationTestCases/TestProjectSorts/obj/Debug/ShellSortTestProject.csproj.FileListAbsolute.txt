@@ -1,0 +1,7 @@
+J:\ConsoleApplicationTestCases\TestProjectSorts\bin\Debug\TestProjectSorts.dll
+J:\ConsoleApplicationTestCases\TestProjectSorts\bin\Debug\TestProjectSorts.pdb
+J:\ConsoleApplicationTestCases\TestProjectSorts\bin\Debug\ConsoleApplicationTestCases.exe
+J:\ConsoleApplicationTestCases\TestProjectSorts\bin\Debug\ConsoleApplicationTestCases.pdb
+J:\ConsoleApplicationTestCases\TestProjectSorts\obj\Debug\ShellSortTestProject.csprojResolveAssemblyReference.cache
+J:\ConsoleApplicationTestCases\TestProjectSorts\obj\Debug\TestProjectSorts.dll
+J:\ConsoleApplicationTestCases\TestProjectSorts\obj\Debug\TestProjectSorts.pdb

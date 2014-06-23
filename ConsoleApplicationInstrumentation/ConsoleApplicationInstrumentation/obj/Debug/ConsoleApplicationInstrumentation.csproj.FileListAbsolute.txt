@@ -1,0 +1,9 @@
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\ConsoleApplicationInstrumentation\ConsoleApplicationInstrumentation\bin\Debug\ConsoleApplicationInstrumentation.exe.config
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\ConsoleApplicationInstrumentation\ConsoleApplicationInstrumentation\bin\Debug\ConsoleApplicationInstrumentation.exe
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\ConsoleApplicationInstrumentation\ConsoleApplicationInstrumentation\bin\Debug\ConsoleApplicationInstrumentation.pdb
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\ConsoleApplicationInstrumentation\ConsoleApplicationInstrumentation\obj\Debug\ConsoleApplicationInstrumentation.csprojResolveAssemblyReference.cache
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\ConsoleApplicationInstrumentation\ConsoleApplicationInstrumentation\obj\Debug\ConsoleApplicationInstrumentation.exe
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\ConsoleApplicationInstrumentation\ConsoleApplicationInstrumentation\obj\Debug\ConsoleApplicationInstrumentation.pdb
+C:\Users\Kevin K. Kennedy\Desktop\ConsoleApplicationInstrumentation\ConsoleApplicationInstrumentation\bin\Debug\ConsoleApplicationInstrumentation.exe.config
+C:\Users\Kevin K. Kennedy\Desktop\ConsoleApplicationInstrumentation\ConsoleApplicationInstrumentation\obj\Debug\ConsoleApplicationInstrumentation.exe
+C:\Users\Kevin K. Kennedy\Desktop\ConsoleApplicationInstrumentation\ConsoleApplicationInstrumentation\obj\Debug\ConsoleApplicationInstrumentation.pdb
